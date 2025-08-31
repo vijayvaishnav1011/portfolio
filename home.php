@@ -17,7 +17,7 @@ $services = [
 ];
 
 $timeline = [
-  ['role'=>'ML Engineer — Zoibit','when'=>'2023 — Present','text'=>'Built fraud models; designed MLOps pipelines.'],
+  ['role'=>'ML Engineer — InfoCom','when'=>'2023 — Present','text'=>'Built fraud models; designed MLOps pipelines.'],
   ['role'=>'Data Analyst — ABC','when'=>'2021 — 2023','text'=>'Dashboards, SQL, forecasting.'],
   ['role'=>'Intern — DS Lab','when'=>'2020','text'=>'Text classification POC.'],
 ];
